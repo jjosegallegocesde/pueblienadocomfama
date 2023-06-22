@@ -13,6 +13,15 @@
         android:theme="@style/Theme.PuebliandoAPP"
         tools:targetApi="31">
         <activity
+            android:name=".Sitios"
+            android:exported="false" />
+        <activity
+            android:name=".Restaurantes"
+            android:exported="false" />
+        <activity
+            android:name=".Hoteles"
+            android:exported="false" />
+        <activity
             android:name=".Home"
             android:exported="false" />
         <activity

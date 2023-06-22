@@ -32,7 +32,7 @@
 
     <Button
         android:id="@+id/botonhoteles"
-        android:backgroundTint="@color/steelblue"
+        android:background="@drawable/botonredondo"
         android:text="HOTELES"
         android:layout_marginHorizontal="30dp"
         android:layout_width="match_parent"
@@ -59,7 +59,7 @@
     <Button
         android:id="@+id/botonsitios"
         android:backgroundTint="@color/steelblue"
-        android:text="RESTAURANTES"
+        android:text="SITIOS TURISTICOS"
         android:layout_marginHorizontal="30dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
